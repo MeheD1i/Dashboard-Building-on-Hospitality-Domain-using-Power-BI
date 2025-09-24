@@ -29,3 +29,21 @@ The dashboard helps in analyzing **hotel booking patterns, cancellations, revenu
 
 ---
 
+---
+
+## 📸 Dashboard Preview
+*(screenshots of the dashboard for quick viewing)*  
+
+Example:  
+![Overall Analysis](images/img1.png)  
+![Revenue Analysis](images/img2.png)  
+![Booking Analysis](images/img3.png)
+
+---
+
+## 🛠️ Tools Used
+- Power BI Desktop  
+- Power Query (ETL)  
+- DAX (Data Analysis Expressions)  
+
+---
