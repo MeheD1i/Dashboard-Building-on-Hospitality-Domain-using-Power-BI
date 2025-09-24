@@ -8,6 +8,6 @@ The dashboard helps in analyzing **hotel booking patterns, cancellations, revenu
 ## 🔎 How to View the Dashboard
 1. Download the `.pbix` file from this repository  
 2. Open it using **Power BI Desktop**  
-3. Or check the published version on Power BI Service: [👉 Click Here]([ADD_YOUR_PUBLISHED_LINK](https://app.powerbi.com/view?r=eyJrIjoiMDgyOTE0M2MtNGY1Ni00NGI1LWFlNTEtNmM2MjEwZGU1YjE1IiwidCI6IjY5YzFjNDI3LWRlYzgtNGM3OC04Mjc2LWJiNjhlYmMzZDVjMCIsImMiOjEwfQ%3D%3D))  
+3. Or check the published version on Power BI Service: [👉 Click Here](https://app.powerbi.com/view?r=eyJrIjoiMDgyOTE0M2MtNGY1Ni00NGI1LWFlNTEtNmM2MjEwZGU1YjE1IiwidCI6IjY5YzFjNDI3LWRlYzgtNGM3OC04Mjc2LWJiNjhlYmMzZDVjMCIsImMiOjEwfQ%3D%3D)  
 
 ---
